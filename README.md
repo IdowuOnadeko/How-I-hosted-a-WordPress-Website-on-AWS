@@ -1,4 +1,4 @@
-![Alt text]Host _Wordpress .png
+![Alt text](Host _Wordpress .png)
 
 
 # WordPress on AWS Deployment
