@@ -1,3 +1,6 @@
+![Alt text]Host _Wordpress .png
+
+
 # WordPress on AWS Deployment
 
 ## Project Overview
