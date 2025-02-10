@@ -1,5 +1,5 @@
 ![Alt text](Host_a_Static_Website_on_AWS.png)
-
+---
 # WordPress on AWS Deployment
 
 ## Project Overview
